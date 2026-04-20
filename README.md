@@ -33,5 +33,5 @@ This project identifies underperforming brands that require promotional or prici
 
 # POWER BI DASHBOARD
 - [x] Designed an interactive dashboard with charts (i.e., bar, circle) and cards.
-      # DASHBOARD & RESULTS
-      - [x] Key KPIs visualized (e.g., purchase contribution %, low-performing vendors, and top vendors by sales/brands
+# DASHBOARD & RESULTS
+- [x] Key KPIs visualized (e.g., purchase contribution %, low-performing vendors, and top vendors by sales/brands
