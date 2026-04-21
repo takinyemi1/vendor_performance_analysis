@@ -18,9 +18,9 @@ logging.basicConfig(
 
 # create a connection to the database (MySQL)
 username = "root"
-password = "msql_1851?Y!45"
+password = "MySQLpassword"
 host = "localhost"
-port = "3306"
+port = "port#"
 database = "vendors_performance"
 
 engine = create_engine(f"mysql+pymysql://{username}:{password}@{host}:{port}/{database}", 
